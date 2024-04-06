@@ -26,5 +26,5 @@
 </p>
 
 
-[linkedin]: [https://www.linkedin.com/in/nabil-ben-hamissa/](https://www.linkedin.com/in/aziz-feriani-761812226/)
-[facebook]: [https://www.facebook.com/spyzerx/](https://www.facebook.com/aziz.feriani.100/)
+[linkedin]: https://www.linkedin.com/in/aziz-feriani-761812226/
+[facebook]: https://www.facebook.com/aziz.feriani.100
