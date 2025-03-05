@@ -7,6 +7,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
+ Python 
  <img  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"width="40" height="40"/> 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain-wordmark.svg" width="40" height="40"/> 
  <img  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"width="40" height="40"/>
